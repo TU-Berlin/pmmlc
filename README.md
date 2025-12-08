@@ -1,3 +1,12 @@
+⚠️ This repository has been migrated to GitLab of Technische Universität Berlin.
+
+New location: https://git.tu-berlin.de/github-TU-Berlin/pmmlc
+
+This GitHub repository is **archived** and no longer maintained.
+Please use only the TU Berlin GitLab repository.
+
+
+
 # mathpipe
 [![Build Status](https://travis-ci.org/physikerwelt/mathpipe.svg?branch=master)](https://travis-ci.org/physikerwelt/mathpipe)
 [![Coverage Status](https://coveralls.io/repos/github/physikerwelt/mathpipe/badge.svg?branch=master)](https://coveralls.io/github/physikerwelt/mathpipe?branch=master)
